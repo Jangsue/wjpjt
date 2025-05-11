@@ -33,10 +33,6 @@
             <artifactId>mariadb-java-client</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>org.mariadb.jdbc</groupId>
-            <artifactId>mariadb-java-client</artifactId>
-        </dependency>
     </dependencies>
 
     <build>
@@ -51,7 +47,7 @@
                         <execution>
                             <goals><goal>repackage</goal></goals>
                             <configuration>
-                                <mainClass>com.woongjin.pjt.wsurveyapi.WsurveyApiApp</mainClass>
+                                <mainClass>com.woongjin.wjpjt.wj-core</mainClass>
                             </configuration>
                         </execution>
                     </executions>

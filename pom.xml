@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>wjpjt</name>
-	<description>Demo project for Spring Boot</description>
+	<description>wjpjt</description>
 	<url/>
 	<licenses>
 		<license/>
